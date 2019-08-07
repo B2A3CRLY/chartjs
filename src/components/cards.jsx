@@ -12,7 +12,7 @@ export default class Cards extends Component {
                         <Card imgsrc={img1} title="The chosen one"/>
                     </div>
                     <div className="col-md-4">
-                        <Card imgsrc={img7} title="The family"/>
+                        <Card imgsrc={img7} title="Polytech family"/>
                     </div>
                     <div className="col-md-4 rot180">
                     <Card imgsrc={img4} title="The way of success"/>
