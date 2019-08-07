@@ -23,9 +23,11 @@ body{
     overflow: hidden;
 }
 .card-img-top{
+    width:350px;
+    height:350px;
     transform: scale(1);
     transition: transform 0.5s ease;
 }
 .card-img-top:hover{
-    transform: rotate(180deg);
+    transform: scale(1.4);
 }
